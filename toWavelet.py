@@ -9,9 +9,10 @@ Estos planos son enviados en los paquetes upd para su proxima reconstruccion
 
 FALTA DECIDIR EL TIPO DE TRANSFORMADA A USAR.
 """
-
+# Comentar más lo que se hace
 # Cambiar los import de numpy y pywt a lo necesario
 # import numpy as np
+
 import pywt as wt
 from ctypes import c_int32
 from pyaudio import paInt16
